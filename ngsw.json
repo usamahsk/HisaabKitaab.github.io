@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1650400074600,
+  "timestamp": 1650400567234,
   "index": "https://usamahsk.github.io/HisaabKitaab.github.io/index.html",
   "assetGroups": [
     {
@@ -13,8 +13,8 @@
       "urls": [
         "https://usamahsk.github.io/HisaabKitaab.github.io/favicon.ico",
         "https://usamahsk.github.io/HisaabKitaab.github.io/index.html",
-        "https://usamahsk.github.io/HisaabKitaab.github.io/main-es2017.b21633bf1cf0662ea5aa.js",
-        "https://usamahsk.github.io/HisaabKitaab.github.io/main-es5.b21633bf1cf0662ea5aa.js",
+        "https://usamahsk.github.io/HisaabKitaab.github.io/main-es2017.edc4af099bc58d750cc5.js",
+        "https://usamahsk.github.io/HisaabKitaab.github.io/main-es5.edc4af099bc58d750cc5.js",
         "https://usamahsk.github.io/HisaabKitaab.github.io/manifest.webmanifest",
         "https://usamahsk.github.io/HisaabKitaab.github.io/polyfills-es2017.c4ede077d641edd16184.js",
         "https://usamahsk.github.io/HisaabKitaab.github.io/polyfills-es5.839929c6c93c48a47922.js",
@@ -59,9 +59,9 @@
     "https://usamahsk.github.io/HisaabKitaab.github.io/assets/usama-devops.jpg": "4e33a4fb0a85995f9cd631326487611f773bfd87",
     "https://usamahsk.github.io/HisaabKitaab.github.io/assets/vectorpaint.svg": "7ee66f054d8c55e6e6108b3506f14072b2bfc521",
     "https://usamahsk.github.io/HisaabKitaab.github.io/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://usamahsk.github.io/HisaabKitaab.github.io/index.html": "c6b865208b514055fede8a6feb99056322c517d1",
-    "https://usamahsk.github.io/HisaabKitaab.github.io/main-es2017.b21633bf1cf0662ea5aa.js": "60635a6daf898bfdce489c4729e2db5f08b4917f",
-    "https://usamahsk.github.io/HisaabKitaab.github.io/main-es5.b21633bf1cf0662ea5aa.js": "f7864de8443153278f253255fb60e92e7fa7b29b",
+    "https://usamahsk.github.io/HisaabKitaab.github.io/index.html": "9507e6e0ec9c1563bd2ba8fe6ce2f7efab8838cb",
+    "https://usamahsk.github.io/HisaabKitaab.github.io/main-es2017.edc4af099bc58d750cc5.js": "a244c2ee08d2807b4e88d996b902e24fcbd968f6",
+    "https://usamahsk.github.io/HisaabKitaab.github.io/main-es5.edc4af099bc58d750cc5.js": "b3f20ec6f7b3afc294cca6ee40eaa5a2924a7dde",
     "https://usamahsk.github.io/HisaabKitaab.github.io/manifest.webmanifest": "26a0a053284a1d6011a249c9028c81d2eb870b04",
     "https://usamahsk.github.io/HisaabKitaab.github.io/polyfills-es2017.c4ede077d641edd16184.js": "82a616dc679bd1713a4576990c0e3b842cf09d1c",
     "https://usamahsk.github.io/HisaabKitaab.github.io/polyfills-es5.839929c6c93c48a47922.js": "148288970654d22ea6f0f1d54d8d6d580d08a796",
